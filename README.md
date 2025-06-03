@@ -8,6 +8,7 @@
 - Seções de benefícios, depoimentos e planos
 
 ## 💻 Prints
+![image](https://github.com/user-attachments/assets/e3892290-adff-4d19-ae5e-3785a556f727)
 
 
 ## 🛠️ Tecnologias
